@@ -1,0 +1,8 @@
+# Virtualenv stuff
+flask/*
+
+# Python bytecode
+*.pyc
+
+# No point in committing SQL statements
+app/data/SQL.in
